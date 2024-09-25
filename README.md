@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my **RichText-Editor** project. This is a fun little learning project where I explore creating a text editor with rich text features.
 
-![Editor Screenshot](/home/padovam/Imagens/Capturas de tela/RichText-Editor.png)
+![Editor Screenshot](https://github.com/Gupadovam/RichText-Editor/blob/main/RichText-Editor.png)
 
 ## What You Can Do
 
